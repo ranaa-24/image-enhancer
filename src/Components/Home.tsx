@@ -14,7 +14,8 @@ function Home() {
           autoPlay
           muted
           loop
-          className="absolute top-0 left-0 w-full h-full object-cover">
+          className="absolute top-0 left-0 w-full h-full object-cover"
+          >
         </video>
 
         <div aria-label='overlay' className="absolute top-0 left-0 w-full h-full bg-[#0000002e]"></div>
